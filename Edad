@@ -1,0 +1,7 @@
+Se coloca en la parte inferior una barra de progreso
+se mostrara un mounstruo de color naranjita con un globo de dialogo que muetra la siguiente leyenda 
+"¿Que edad tiene tu hijo?"
+agregamos la leyenda 
+"Adaptamos el contenido en funcion a la edad de tu hijo"
+Se colocan 3 botones con las edades respectivas de 1-3,4-6 y 6+
+Se pone el botó de Continuar 
