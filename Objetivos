@@ -1,9 +1,21 @@
-Se coloca la barra de progreso 
-se coloca el mismo mounstro mencionado anteriormente con el globo de dialogo cuya leyenda es 
+Se presenta una ventana con fondo de color azul cielo ya antes mencionado
+
+En la parte superior se muestra una flecha de regreso y una barra de progreso que se llenara en base a cada que le demos en el botón de continuar.
+
+Como tercer elemento en esta ventana tenemos un mounstruo de color naranja con un globo de dialogo que muestra la siguiente leyenda
+
 "¿Cuales son tus objetivos al usar la aplicación"
-Se colocan 3 botones con la siguiente leyenda
--Divertirte con tu hijo
--Aprender a leer y escribir
--Otros
-Cada uno de estos botones con una imagen alusiva 
-Se coloca el boton verde de continuar
+
+Colocamos botones en los cuales se puede visualizar
+
+1- Divertirte con tu hijo/a
+2- Asistencia con el aprendizaje
+3-Otros.....
+
+Cada boton incluye una imagen diferente alusiva al texto 
+
+1-Un lienzo con colores
+2-Unos libros
+3-Un planeta
+
+Colocamos el boton verde de continuar.
