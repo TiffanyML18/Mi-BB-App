@@ -1,13 +1,19 @@
-Bienvenida 
+En la parte superior de la imagen, se puede ver el logotipo de Mi bb app , seguido del texto "Aprendamos jugando. La aventura más divertida".
 
-En esta sección se dara la bienvenida a nuestra aplicación  con las sigueintes leyendas 
+Debajo del logotipo, se encuentra una breve descripción de la aplicación, que dice: "Más de 1600 juegos educativos, canciones, videoclases y actividades divertidas sin anuncios.
 
-"Ayudamos a los padres de todo el mundo a hacer más facil la enseñanza de sus hijos"
+En la parte inferior de la imagen, se encuentran dos botones: uno para los usuarios nuevos y otro para los usuarios que ya tienen una cuenta.
 
-Se mostrara una imagen de un mounstro amigable color cafe con morado, ojitos de color azul y naranja y orejitas
+A continuación, se describe cada uno de los elementos con más detalle:
 
-Como siguiente elemento tenemos un boton de comenzar de color verde
+Botones
 
-Para concluir tenemos la siguiente leyenda 
+El botón para los usuarios nuevos lleva a una página donde se puede crear una cuenta. El botón para los usuarios que ya tienen una cuenta lleva a la página de inicio de sesión.
 
-"Al continuar, acepta nuestras Politicas de Privacidad y los Terminos de uso de suscripción".
+En general, la imagen transmite una sensación de diversión y aprendizaje. Los colores brillantes y los personajes amigables hacen que la aplicación sea atractiva para los niños. La descripción de la aplicación proporciona información clara y concisa sobre el contenido de la misma.
+
+Además de lo anterior, cabe destacar que la imagen incluye los siguientes elementos:
+
+Un sello de "Kid", que indica que la aplicación cumple con los requisitos de seguridad y privacidad para niños.
+Un sello de "COPPA CERTIFIED", que indica que la aplicación cumple con la Ley de Protección de la Privacidad en Línea de los Niños y Adolescentes (COPPA) de los Estados Unidos.
+Estos sellos garantizan a los padres que la aplicación es segura para sus hijos.
